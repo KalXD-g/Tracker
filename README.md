@@ -5,3 +5,6 @@ Welcome to the Path Tracker Project! This is a handy tool that helps you track a
 ## Features
 - **Path Tracking:** This project can show multiple paths at the same time, inspired by concepts from quantum superposition.
 - **Interactive Visualization:** Watch paths move and change in real-time, making it easier to understand how algorithms work.
+
+## Future Plans
+Add a tracker function that starts tracking form the goal point which works along with tracker from start point to reduce time.
